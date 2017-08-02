@@ -5,6 +5,7 @@
    https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
    
    此网址是图片的出处，
+   
    ![](https://github.com/zkydrx/images/blob/master/sql/sql.png?raw=true)
    
   上图给出了sql语句的示例。见sql示例
